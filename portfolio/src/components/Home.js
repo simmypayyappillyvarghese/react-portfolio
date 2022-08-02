@@ -1,6 +1,9 @@
-function Home(){
+
+import Intro from './Intro';
+
+export default function Home(){
 
     return(
-        <div>Test</div>
+        <Intro/>
     );
 }
