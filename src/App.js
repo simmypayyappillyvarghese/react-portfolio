@@ -5,13 +5,13 @@ import Projects from './components/Projects';
 import HireMe from './components/HireMe';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
 
 function App() {
   return (
-    <>
+    <BrowserRouter basename='/react-portfolio'>
         <Navbar/>
         <Routes>  
           <Route path='/' element={<Home/>} />
@@ -20,7 +20,7 @@ function App() {
           <Route path='/projects' element={<Projects/>} />
           <Route path='/hireMe' element={<HireMe/>} />
         </Routes>
-    </>
+     </BrowserRouter>
     )
 }
 
