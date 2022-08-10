@@ -148,11 +148,14 @@ font-size: 0.9rem;
 }
 
 .hireme{
-
-  max-width:40vw !important;
-  background-color:var(--body-color);
+ font-size: 2rem !important;
+  max-width:70vw !important;
+  height:70vh !important;
+  margin:3rem auto !important;
+  background-color:var(--body-color) !important;
   border-radius: 10px;
-  padding:3rem 1rem !important;
+  padding:3rem 3rem !important;
+
 }
 
 @media screen and (min-width:993px) {

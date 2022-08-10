@@ -34,7 +34,7 @@ export default function Projects(){
                             <a href="https://glacial-fortress-58935.herokuapp.com/" target="_blank">
                             <Icon className="iconify react-icon" icon="cib:heroku"/>
                             </a>
-                            <a href="https://github.com/simmypayyappillyvarghese/steep-dreams" target="_blank">
+                            <a href="https://github.com/simmypayyappillyvarghese/steep-dreams" target="_blank" rel="noreferrer">
                             <i className="fa fa-github github-icon"></i>
                             </a>
                         </div>
@@ -65,10 +65,10 @@ export default function Projects(){
                                 <span>Node.JS,Express,Sequelize,Handlebars,Bootstrap,JS</span>
                                 </div>
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
-                                    <a href="https://classique-croissant-67132.herokuapp.com/" target="_blank">
+                                    <a href="https://classique-croissant-67132.herokuapp.com/" target="_blank" rel="noreferrer">
                                     <Icon className="iconify react-icon py-0 my-0 heroku-icon" icon="bxl:heroku"/>
                                     </a>
-                                    <a href="https://github.com/simmypayyappillyvarghese/Mixed-Mood" target="_blank">
+                                    <a href="https://github.com/simmypayyappillyvarghese/Mixed-Mood" target="_blank" rel="noreferrer">
                                         <i className="fa fa-github github-icon"></i>
                                     </a>
                                 </div>
@@ -104,9 +104,9 @@ export default function Projects(){
                                 <span>Node.JS,Express,Sequelize,Handlebars,Bootstrap,JS</span>
                                 </div>
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
-                                    <a href=" https://damp-woodland-35630.herokuapp.com/" target="_blank">
+                                    <a href=" https://damp-woodland-35630.herokuapp.com/" target="_blank" rel="noreferrer">
                                     <Icon className="iconify react-icon py-0 my-0 heroku-icon" icon="bxl:heroku"/></a>
-                                    <a href="https://github.com/simmypayyappillyvarghese/techpad/" target="_blank"><i
+                                    <a href="https://github.com/simmypayyappillyvarghese/techpad/" target="_blank" rel="noreferrer"><i
                                             className="fa fa-github github-icon"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 ms-0" />
@@ -136,10 +136,10 @@ export default function Projects(){
                                 </div>
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
                                     <a href="https://simmypayyappillyvarghese.github.io/us-daily-weather-forecast-dashboard/"
-                                        target="_blank">
+                                        target="_blank" rel="noreferrer">
                                      <Icon className="iconify react-icon my-0 heroku-icon pages-icon" icon="simple-icons:githubpages"/></a>
                                     <a href="https://github.com/simmypayyappillyvarghese/us-daily-weather-forecast-dashboard"
-                                        target="_blank"><i className="fa fa-github"></i></a>
+                                        target="_blank" rel="noreferrer"><i className="fa fa-github"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 me-0" />
                             </div>
@@ -176,11 +176,11 @@ export default function Projects(){
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
 
                                     <a href="https://aaloksikand.github.io/California_Road_Trip_Planner/"
-                                        target="_blank">
+                                        target="_blank" rel="noreferrer">
                                     <Icon className="iconify react-icon my-0 heroku-icon pages-icon" icon="simple-icons:githubpages"/>
                                     </a>
                                     <a href="https://github.com/simmypayyappillyvarghese/California_Road_Trip_Planner"
-                                        target="_blank"><i className="fa fa-github github-icon"></i></a>
+                                        target="_blank" rel="noreferrer"><i className="fa fa-github github-icon"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 ms-0" />
                             </div>
@@ -209,10 +209,10 @@ export default function Projects(){
                                 <span>HTML5,CSS3,Bootstrap,Express.js,Node.js</span>
                                 </div>    
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
-                                    <a href="https://express-note-down-app.herokuapp.com/" target="_blank">
+                                    <a href="https://express-note-down-app.herokuapp.com/" target="_blank" rel="noreferrer">
                                 <Icon  className="iconify react-icon my-0 heroku-icon" icon="bxl:heroku"/></a>
                                     <a href="https://github.com/simmypayyappillyvarghese/note-down-app"
-                                        target="_blank"><i className="fa fa-github github-icon"></i></a>
+                                        target="_blank" rel="noreferrer"><i className="fa fa-github github-icon"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 ms-0" />
                             </div>
@@ -238,7 +238,7 @@ export default function Projects(){
                                 </div>    
                                 <div className="project-icons d-flex justify-content-start align-items-start">
                                     <a href="https://github.com/simmypayyappillyvarghese/team-profile-dashboard"
-                                        target="_blank"><i className="fa fa-github github-icon"></i></a>
+                                        target="_blank" rel="noreferrer"><i className="fa fa-github github-icon"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 ms-0" />
                             </div>
@@ -266,7 +266,7 @@ export default function Projects(){
                                 </div>
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
                                     <a href=" https://github.com/simmypayyappillyvarghese/employee-data-management-system"
-                                        target="_blank"><i className="fa fa-github github-icon"></i></a>
+                                        target="_blank" rel="noreferrer"><i className="fa fa-github github-icon"></i></a>
                                 </div>
                                 <hr className="d-none d-lg-block mb-0 ms-0" />
                             </div>
