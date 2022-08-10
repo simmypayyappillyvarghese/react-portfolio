@@ -14,11 +14,11 @@ function App() {
     <>
         <Navbar/>
         <Routes>  
-          <Route path='/react-portfolio' element={<Home/>} />
-          <Route path='/react-portfolio/home' element={<Home/>} />
-          <Route path='/react-portfolio/about' exact element={<About/>} />
-          <Route path='/react-portfolio/projects' element={<Projects/>} />
-          <Route path='/react-portfolio/hireMe' element={<HireMe/>} />
+          <Route path='/' element={<Home/>} />
+          <Route path='/home' element={<Home/>} />
+          <Route path='/about' exact element={<About/>} />
+          <Route path='/projects' element={<Projects/>} />
+          <Route path='/hireMe' element={<HireMe/>} />
         </Routes>
     </>
     )
