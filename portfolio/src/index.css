@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("./assets/cover-image.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("./components/assets/cover-image.jpg");
   background-position:bottom;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -38,15 +38,18 @@ nav{
  
 }
 .nav-item a{
-  color: var(--bg-nav) !important;
+  color: #fff  !important;
+  font-weight: 700;
+  text-decoration: overline;
 }
+
 
 .logo{
   font-family: Arizonia,'Bilbo Swash Caps','Arial';
   font-weight: 800;
   text-transform: capitalize;
   font-size: 2.4rem;
-  color: var(--bg-nav) !important;
+  color: var(--btn-color) !important;
 }
 
 .intro{
@@ -78,12 +81,78 @@ nav{
 
   background-color: var(--btn-color) !important;
   font-weight: 900;
+}
+
+.education-skill{
+
+  min-height: 30vh;
+}
+.education-section,.skill-section {
+  background-color: var(--btn-color) !important;
+  height:100%;
+  width:100%;
 
 }
 
+.education-section{
+
+  border-right:2px solid var(--body-color);
+
+}
+.work-section{
+  background-color: #000 !important;
+  color:#fff;
+}
+
+.projects-section{
+  background-color: #000 !important;
+}
+
+
 .about-section{
 
-  color:red;
+  background-color: #000;
+
+}
+.profile-image{
+
+  width:40%;
+  border-radius: 10%;
+
+}
+
+
+.fa-tag{
+
+  font-size: 20px;
+}
+
+
+span{
+
+color: var(--btn-color);
+font-weight: 700;
+font-size: 0.9rem;
+}
+
+.react-icon{
+
+  font-size: 1.7rem;
+  margin-right: 1rem;
+  color: var(--btn-color);
+}
+
+.pages-icon{
+
+  font-size: 4.7rem;
+}
+
+.hireme{
+
+  max-width:40vw !important;
+  background-color:var(--body-color);
+  border-radius: 10px;
+  padding:3rem 1rem !important;
 }
 
 @media screen and (min-width:993px) {

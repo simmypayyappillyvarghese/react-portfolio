@@ -1,5 +1,5 @@
 
-import resume from '../assets/Simmy_Varghese_Full_Stack_Developer.pdf'
+import resume from './assets/Simmy_varghese_Web_Developer.pdf'
 
 export default function Intro(){
 
