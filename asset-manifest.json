@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/simmypayyappillyvarghese/react-portfolio/static/css/main.61d36abf.css",
-    "main.js": "/simmypayyappillyvarghese/react-portfolio/static/js/main.8d40361f.js",
-    "static/js/787.a2cb61a6.chunk.js": "/simmypayyappillyvarghese/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Steep_Dreams.gif": "/simmypayyappillyvarghese/react-portfolio/static/media/Steep_Dreams.3ad01910e041f61ae8ec.gif",
-    "static/media/mixed-mood-login.png": "/simmypayyappillyvarghese/react-portfolio/static/media/mixed-mood-login.2c1da6f0911f3df7b64b.png",
-    "static/media/roadtrip_planner_screenshot.png": "/simmypayyappillyvarghese/react-portfolio/static/media/roadtrip_planner_screenshot.7fdfa00af57946d3b2e7.png",
-    "static/media/cover-image.jpg": "/simmypayyappillyvarghese/react-portfolio/static/media/cover-image.799ac7686f7c6171a5fb.jpg",
-    "static/media/CLI screenshot-EmployeeTracker.png": "/simmypayyappillyvarghese/react-portfolio/static/media/CLI screenshot-EmployeeTracker.8584c2b5ecf04a3fab71.png",
-    "static/media/weather-forecast-screenshot.png": "/simmypayyappillyvarghese/react-portfolio/static/media/weather-forecast-screenshot.b781ab1b615001e02218.png",
-    "static/media/teamprofile-screenshot.png": "/simmypayyappillyvarghese/react-portfolio/static/media/teamprofile-screenshot.89d8fa1010a38a08daef.png",
-    "static/media/tech_blog_home.png": "/simmypayyappillyvarghese/react-portfolio/static/media/tech_blog_home.6e83060cb7e8c2ea9f12.png",
-    "static/media/screenshot-note-taker.png": "/simmypayyappillyvarghese/react-portfolio/static/media/screenshot-note-taker.fd143ec318aa326a0d2f.png",
-    "static/media/profile_2.jpg": "/simmypayyappillyvarghese/react-portfolio/static/media/profile_2.ca2b73f5e5b5f04107df.jpg",
-    "static/media/Simmy_varghese_Web_Developer.pdf": "/simmypayyappillyvarghese/react-portfolio/static/media/Simmy_varghese_Web_Developer.e673a047e9492ecc7e9c.pdf",
-    "index.html": "/simmypayyappillyvarghese/react-portfolio/index.html",
-    "main.61d36abf.css.map": "/simmypayyappillyvarghese/react-portfolio/static/css/main.61d36abf.css.map",
-    "main.8d40361f.js.map": "/simmypayyappillyvarghese/react-portfolio/static/js/main.8d40361f.js.map",
-    "787.a2cb61a6.chunk.js.map": "/simmypayyappillyvarghese/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.7d73a1cd.css",
+    "main.js": "/react-portfolio/static/js/main.db354dbb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Steep_Dreams.gif": "/react-portfolio/static/media/Steep_Dreams.3ad01910e041f61ae8ec.gif",
+    "static/media/mixed-mood-login.png": "/react-portfolio/static/media/mixed-mood-login.2c1da6f0911f3df7b64b.png",
+    "static/media/roadtrip_planner_screenshot.png": "/react-portfolio/static/media/roadtrip_planner_screenshot.7fdfa00af57946d3b2e7.png",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.799ac7686f7c6171a5fb.jpg",
+    "static/media/CLI screenshot-EmployeeTracker.png": "/react-portfolio/static/media/CLI screenshot-EmployeeTracker.8584c2b5ecf04a3fab71.png",
+    "static/media/weather-forecast-screenshot.png": "/react-portfolio/static/media/weather-forecast-screenshot.b781ab1b615001e02218.png",
+    "static/media/teamprofile-screenshot.png": "/react-portfolio/static/media/teamprofile-screenshot.89d8fa1010a38a08daef.png",
+    "static/media/tech_blog_home.png": "/react-portfolio/static/media/tech_blog_home.6e83060cb7e8c2ea9f12.png",
+    "static/media/screenshot-note-taker.png": "/react-portfolio/static/media/screenshot-note-taker.fd143ec318aa326a0d2f.png",
+    "static/media/profile_2.jpg": "/react-portfolio/static/media/profile_2.ca2b73f5e5b5f04107df.jpg",
+    "static/media/Simmy_varghese_Web_Developer.pdf": "/react-portfolio/static/media/Simmy_varghese_Web_Developer.e673a047e9492ecc7e9c.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.7d73a1cd.css.map": "/react-portfolio/static/css/main.7d73a1cd.css.map",
+    "main.db354dbb.js.map": "/react-portfolio/static/js/main.db354dbb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61d36abf.css",
-    "static/js/main.8d40361f.js"
+    "static/css/main.7d73a1cd.css",
+    "static/js/main.db354dbb.js"
   ]
 }
