@@ -4,14 +4,14 @@ import About from './components/About';
 import Projects from './components/Projects';
 import HireMe from './components/HireMe';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import { HashRouter } from 'react-router-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
         <Navbar/>
         <Routes>
           <Route path='/react-portfolio' element={<Home/>} />
@@ -20,7 +20,7 @@ function App() {
           <Route path='/react-portfolio/projects' element={<Projects/>} />
           <Route path='/react-portfolio/hireMe' element={<HireMe/>} />
         </Routes>
-    </Router>
+    </HashRouter>
     )
 }
 
