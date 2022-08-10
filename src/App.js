@@ -11,7 +11,7 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <>
         <Navbar/>
         <Routes>  
           <Route path='/' element={<Home/>} />
@@ -20,7 +20,7 @@ function App() {
           <Route path='/react-portfolio/projects' element={<Projects/>} />
           <Route path='/react-portfolio/hireMe' element={<HireMe/>} />
         </Routes>
-    </Router>
+    </>
     )
 }
 
