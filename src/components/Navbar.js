@@ -15,16 +15,16 @@ export default function Navbar(){
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <a className="nav-link" href="/react-portfolio/#/home">Home</a>
+                            <a className="nav-link" href="/react-portfolio/home">Home</a>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="/react-portfolio/#/about">About</a>
+                            <a className="nav-link" href="/react-portfolio/about">About</a>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="/react-portfolio/#/projects">Projects</a>
+                            <a className="nav-link" href="/react-portfolio/projects">Projects</a>
                         </li>
                         <li className="nav-item active">
-                            <a className="nav-link" href="/react-portfolio/#/hireMe">Hire Me</a>
+                            <a className="nav-link" href="/react-portfolio/hireMe">Hire Me</a>
                         </li>
                     </ul>
                 </div>
