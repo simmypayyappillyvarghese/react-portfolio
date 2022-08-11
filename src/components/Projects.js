@@ -175,7 +175,7 @@ export default function Projects(){
                                 </div>
                                 <div className="project-icons d-flex justify-content-start align-items-center py-3">
 
-                                    <a href="https://aaloksikand.github.io/California_Road_Trip_Planner/"
+                                    <a href="https://simmypayyappillyvarghese.github.io/California_Road_Trip_Planner/"
                                         target="_blank" rel="noreferrer">
                                     <Icon className="iconify react-icon my-0 heroku-icon pages-icon" icon="simple-icons:githubpages"/>
                                     </a>
