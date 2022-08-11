@@ -1,5 +1,5 @@
 import Home from './components/Home';
-import Navbar from './components/Navbar';
+import BootstrapNavbar from './components/Navbar';
 import About from './components/About';
 import Projects from './components/Projects';
 import HireMe from './components/HireMe';
@@ -13,7 +13,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
-        <Navbar/>
+        <BootstrapNavbar/>
         <Routes>  
           <Route path='/' element={<Home/>} />
           <Route path='/home' element={<Home/>} />
