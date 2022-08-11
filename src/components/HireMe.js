@@ -53,13 +53,13 @@ export default function HireMe(){
                 <div className="col-md-12 mb-3 mb-md-0">
                     <div className="card py-4 h-100">
                         <div className="card-body text-center row">
-                            <div className="col-md-4">
+                            <div className="col-md-6">
                                 <i className="fa fa-map react-icon mb-2"></i>
                                 <h4 className="text-uppercase my-3">Address</h4>
                                 <hr className="my-4 mx-auto" />
-                                <div className="small text-black-50">Livermore,California</div>
+                                <div className="small text-black-50">BayArea,California</div>
                             </div>
-                            <div className="col-md-4">
+                            <div className="col-md-6">
                             <a href="mailto:simmyvarghese5@gmail.com" target="_blank" rel="noreferrer">
                 <Icon className="iconify react-icon" icon="cib:gmail"/>
             </a>
@@ -67,13 +67,6 @@ export default function HireMe(){
                                 <hr className="my-4 mx-auto" />
                                 <div className="small text-black-50">simmyvarghese5@gmail.com</div>
                             </div>
-                            <div className="col-md-4">
-                                <i className="fa fa-phone react-icon mb-2"></i>
-                                <h4 className="text-uppercase my-3">Phone</h4>
-                                <hr className="my-4 mx-auto" />
-                                <div className="small text-black-50">+1 (925) 523-1393</div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
