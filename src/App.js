@@ -5,13 +5,14 @@ import Projects from './components/Projects';
 import HireMe from './components/HireMe';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 
 function App() {
   return (
-    <Router basename='/react-portfolio'>
+    <Router basename={process.env.PUBLIC_URL}>
         <Navbar/>
         <Routes>  
           <Route path='/' element={<Home/>} />
