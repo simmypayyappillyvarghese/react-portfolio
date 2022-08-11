@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
         <Navbar/>
-        <Routes basename="/react-portfolio">  
+        <Routes>  
           <Route path='/' element={<Home/>} />
           <Route path='/react-portfolio/home' element={<Home/>} />
           <Route path='/react-portfolio/about'  element={<About/>} />
