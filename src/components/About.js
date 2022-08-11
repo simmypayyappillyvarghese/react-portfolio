@@ -23,11 +23,13 @@ export default function About(){
                             learned technologies like HTML,CSS,Bootstrap,Javascript ,JQuery,Node JS.
                         </p>
                         <p class="text-white my-2 px-3 py-2 text-left">
-                            As a part of the Coding Boot Camp at UCLA Extension worked on a team of three to develop a
-                            Road Trip Planner using Google and Yelp API and Javascript that will help the road trip
-                            lovers to plan the trip,identify the routes,hotels and restaurants near the stop points and
-                            many more individual projects.I am looking forward to working with a fast paced
-                            ,quality-driven team to build better experiences on the web.
+                            As a part of the Coding Boot Camp at UCLA Extension worked in a team  to develop a
+                            Ecommerce Application using MERN Stack(Mongo DB,React,Node JS,Expree),GraphQL and styles using
+                            Semantic UI and React Bootstrap.Application allows tea lovers to purchase there favourite tea online
+                            and place an order.Order Summary and Products Page make use of GraphQL queries and mutation 
+                            to display all the varieties of tea and render order details.
+                            I am looking forward to working with a fast paced,quality-driven team to explore and 
+                            build better experiences on the web.
                         </p>
                     </div>
                 </div>
