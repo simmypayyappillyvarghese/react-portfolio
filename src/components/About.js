@@ -8,21 +8,21 @@ export default function About(){
     return(
         <>
         <section className="about-section text-white pt-5">
-            <div class="container px-4 pb-5">
-            <div class="row justify-content-center align-items-center">
-                <div class="col-lg-5 justify-content-end text-center profile-image-div">
+            <div className="container px-4 pb-5">
+            <div className="row justify-content-center align-items-center">
+                <div className="col-lg-5 justify-content-end text-center profile-image-div">
                     <img src={profileImage} alt="Profile Picture" className="profile-image bg-opacity-10"/> 
                 </div>
-                <div class="col-lg-7">
-                    <div class="row aboutme-para pb-5">
+                <div className="col-lg-7">
+                    <div className="row aboutme-para pb-5">
                         <em><h4>About Me</h4></em>
-                        <p class="text-white my-2 p-3 text-left">
+                        <p className="text-white my-2 p-3 text-left">
                             Aspiring Full Stack Developer with 7 years of IT experience in testing and supporting
                             multiple platforms.Recognized for being an enthusiastic learner, team player and problem
                             solver with an eye for details. Passionate about developing apps by utilizing the newly
                             learned technologies like HTML,CSS,Bootstrap,Javascript ,JQuery,Node JS.
                         </p>
-                        <p class="text-white my-2 px-3 py-2 text-left">
+                        <p className="text-white my-2 px-3 py-2 text-left">
                             As a part of the Coding Boot Camp at UCLA Extension worked in a team  to develop a
                             Ecommerce Application using MERN Stack(Mongo DB,React,Node JS,Expree),GraphQL and styles using
                             Semantic UI and React Bootstrap.Application allows tea lovers to purchase there favourite tea online
