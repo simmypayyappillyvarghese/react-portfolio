@@ -26,7 +26,12 @@
 
       var l = window.location;
       
-      console.log(l);
+     // https://simmypayyappillyvarghese.github.io/react-portfolio/about
+
+     //https://simmypayyappillyvarghese.github.io
+
+     //path name /react-portfolio/about -> [react-portfolio ,about]
+
       l.replace(
         l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
         l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
@@ -34,7 +39,7 @@
         (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
         l.hash
       );
-      console.log(l);
+ 
 
     </script>
   </head>

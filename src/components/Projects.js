@@ -54,12 +54,6 @@ export default function Projects(){
                                 <h4 className="text-white py-2">Mixed Mood Music App</h4>
                                 <p className="text-white">Mixed Music is a Node JS web application build using express.JS and sequelize(ORM tool) following MVC paradigm. Mixed-Mood Music App allows the user to play the songs based on the mood chosen also it allows the user to search for songs based on the artist name and save the favourite songs into their library
                                 </p>
-                                <p className="text-white">
-                                    TechPad allows user to create tech blog posts,add comments(need to be signed
-                                    in),view all the
-                                    posts by other useras well in home tab,access their own posts from dasboard ,edit
-                                    the post and delete the post as well.
-                                </p>
                                 <div className='d-flex justify-content-center align-items-center'>
                                 <i className="fa fa-tag tech-tag mx-1"></i>
                                 <span>Node.JS,Express,Sequelize,Handlebars,Bootstrap,JS</span>
